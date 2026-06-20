@@ -291,17 +291,15 @@ Demonstrates structured business-analytics thinking — every finding is tied ba
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-2EA9DF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="[https://www.linkedin.com/in/your-linkedin-handle](https://www.linkedin.com/in/arun-jelsinge-244949290/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:jelsingearun.2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="[https://your-portfolio-url.com](https://jelsinge-arun-portfolio.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-2EA9DF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/jelsingearun"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 **Open to fresher / entry-level Software Engineering, AI-ML, and Data Analytics roles.**
 If you're hiring or just want to talk shop about FastAPI, computer vision, or developer tooling — reach out.
 
 </div>
-
-> ⚠️ Replace the LinkedIn, email, and portfolio placeholder links above with your real URLs before publishing.
 
 <br/>
 
