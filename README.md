@@ -2,7 +2,7 @@
 
 <!-- ============ HERO ============ -->
 
-<img src="https://avatars.githubusercontent.com/u/265020210?v=4" width="120" style="border-radius:50%;" alt="Jelsinge Arun" />
+<img src="[https://avatars.githubusercontent.com/u/265020210?v=4](https://github.com/jelsingearun/jelsingearun/blob/main/05.jpg)" width="120" style="border-radius:50%;" alt="Jelsinge Arun" />
 
 # Hi 👋, I'm Jelsinge Arun
 
