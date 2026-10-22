@@ -8,10 +8,6 @@
 
 ### <samp>github.com/jelsingearun</samp>
 
-<a href="https://github.com/jelsingearun">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2EA9DF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%7C+FastAPI+%2B+React;Computer+Vision+%7C+OpenCV+%2B+YOLOv8;Automation+%26+DevTooling+Builder;Data+Analyst+%7C+Python+%2B+Excel" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=jelsingearun&style=for-the-badge&color=2EA9DF&label=PROFILE+VIEWS" alt="Profile Views" />
